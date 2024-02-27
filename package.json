@@ -1,0 +1,19 @@
+{
+  "name": "react-devportfolio",
+  "version": "1.0.0",
+  "description": "A single-page React application for showcasing a developer's portfolio with navigation, project samples, contact form, and resume section, designed to meet employer's needs for assessing candidates' skills and experience in building single-page applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mb739132/React-DevPortfolio.git"
+  },
+  "author": "Mariatu Bah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mb739132/React-DevPortfolio/issues"
+  },
+  "homepage": "https://github.com/Mb739132/React-DevPortfolio#readme"
+}
