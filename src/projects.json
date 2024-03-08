@@ -1,0 +1,58 @@
+[
+    {
+      "id": "project-one", 
+      "name": "PET PLANiT", 
+      "description": "MERN Stack", 
+      "pageUrl": "https://enigmatic-temple-75821.herokuapp.com/", 
+      "githubUrl": "https://github.com/emholmes/pet-social-network"
+    },
+    {
+      "id": "project-two", 
+      "name": "Parktime 2.0", 
+      "description": "MVC | Sequelize | Node.js | RESTful API", 
+      "pageUrl": "https://parktime-2.herokuapp.com/", 
+      "githubUrl": "https://github.com/emholmes/parktime-app"
+    },
+    {
+      "id": "project-three", 
+      "name": "Tech Blog",
+      "description": "MVC | Express | Sequelize", 
+      "pageUrl": "https://tech-blog-mvc-eh.herokuapp.com/", 
+      "githubUrl": "https://github.com/emholmes/tech-blog-mvc"
+    },
+    {
+      "id": "project-four", 
+      "name": "Note Taker", 
+      "description": "Express.js", 
+      "pageUrl": "https://notetaker-eh.herokuapp.com/", 
+      "githubUrl": "https://github.com/emholmes/note-taker-expressjs"
+    },
+    {
+      "id": "project-five", 
+      "name": "Workday Scheduler", 
+      "description": "Bootstrap | jQuery | Third-party API", 
+      "pageUrl": "https://emholmes.github.io/eholmes-work-day-scheduler-api-challenge/", 
+      "githubUrl": "https://github.com/emholmes/eholmes-work-day-scheduler-api-challenge"
+    },
+    {
+      "id": "project-six", 
+      "name": "Weather Dashboard", 
+      "description": "Javascript | Server-side API", 
+      "pageUrl": "https://emholmes.github.io/api-weather-dashboard/", 
+      "githubUrl": "https://github.com/emholmes/api-weather-dashboard"
+    },
+    {
+      "id": "project-seven", 
+      "name": "JS Fundamentals Quiz", 
+      "description": "Javascript", 
+      "pageUrl": "https://emholmes.github.io/eholmes-js-quiz-api-challenge/", 
+      "githubUrl": "https://github.com/emholmes/eholmes-js-quiz-api-challenge"
+    },
+    {
+      "id": "project-eight", 
+      "name": "Password Generator", 
+      "description": "Javascript", 
+      "pageUrl": "https://emholmes.github.io/eholmes-password-generator-javascript-challenge", 
+      "githubUrl": "https://github.com/emholmes/eholmes-password-generator-javascript-challenge"
+    }
+  ]
